@@ -23,6 +23,7 @@ DLできたらまずはダウンロード用のフォルダに保存し、右ク
 "InfinitePouchResorcepack_for1.19.x.zip"をコピーしよう。
  
 「利用可能」にリソースパックが入ったはずだ。これを「選択中」に移動しよう。
+ ![STEP2](STEP2.gif)
  
  
 ## STEP3
@@ -32,4 +33,6 @@ DLできたらまずはダウンロード用のフォルダに保存し、右ク
  
 "InfinitePouchDataPack_for1.19.x.zip"をコピーしよう。これで導入は完了だ！
  
+ 
+ ![STEP3](STEP3.gif)
   
